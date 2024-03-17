@@ -4,6 +4,10 @@ Data Science Blog Post for Udacity Projekt #1
 # Project overview
 The first assignment of the Udacity “Data Scientist" nanodegree program is to analyze a dataset of choice. Here, Airbnb listings in Berlin (scraped on 18th of Dec. 2023) build the foundation of this analysis.
 
+All code can be found here:
+
+https://github.com/LonesomePowerCoder/Udacity_Data_Science_Blog/blob/main/Data%20Science%20Blog%20Post%20-%20Udacity%20Project%201.ipynb
+
 A comprehensive summary can be found on Medium: (https://medium.com/@nebel.johannes/sharing-is-caring-does-this-also-hold-for-airbnb-accommodations-in-berlin-7a847f4634c5)
 
 # Questions to be answered
